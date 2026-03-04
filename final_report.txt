@@ -1,0 +1,4 @@
+1. Sales peak in mid-year months indicating seasonal demand.
+2. West and East regions generate highest revenue.
+3. Few products contribute majority of total sales (Pareto rule).
+4. Corporate segment shows higher average order value.
